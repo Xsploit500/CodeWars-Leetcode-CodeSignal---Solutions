@@ -1,0 +1,6 @@
+def find_needle(haystack):
+    count = 0
+    for haystack[count] in haystack:
+        if haystack[count] == "needle":
+            return "found the needle at position " + str(count)
+        count += 1

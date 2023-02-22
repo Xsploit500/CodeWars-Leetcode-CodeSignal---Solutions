@@ -1,0 +1,18 @@
+def is_pangram(s):
+    hash = []
+    let = ['a','b','c','d','e','f','g','h','i','j','k','l','m',
+           'n','o','p','q','r','s','t','u','v','w','x','y','z']
+            
+    s = list(s)
+    s = sorted(s)
+    
+    for i in let:
+        a = i.title()
+        if i in s or a in s:
+            hash.append(1)
+        
+    if sum(hash) >= 26:
+        return True
+        
+    else:
+        return False

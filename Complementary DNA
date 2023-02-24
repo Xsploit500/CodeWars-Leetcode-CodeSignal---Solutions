@@ -1,0 +1,14 @@
+def DNA_strand(dna):
+    cs = []
+    for i in dna:
+        if i == "A":
+            cs.append("T")
+        if i == "T":
+            cs.append("A")
+        if i == "C":
+            cs.append("G")
+        if i == "G":
+            cs.append("C")
+            
+        complementary_side = ''.join(cs)
+    return complementary_side

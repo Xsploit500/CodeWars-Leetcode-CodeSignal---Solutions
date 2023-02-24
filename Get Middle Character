@@ -1,0 +1,10 @@
+def get_middle(s):
+    a = int(len(s))
+    b = int((a/2) - 1)
+    c = int((a-1)/2)
+    d =  int(a/2)
+    
+    if a % 2 == 0:
+        return str(s[b]+s[d])
+    else:
+        return s[c]

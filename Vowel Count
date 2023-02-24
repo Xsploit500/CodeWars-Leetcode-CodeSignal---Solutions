@@ -1,3 +1,20 @@
+Using Regular Expressions
+-------------------------
+
+def get_count(sentence):
+    import re
+    
+    vowels = 'aeiou'
+    
+    num_of_vowels = []
+    
+    for i in vowels:
+        b = len(re.findall(i, sentence))
+        num_of_vowels.append(b)
+        
+    return sum(num_of_vowels)
+
+
 Time Complexity - O(n)
 ----------------------
 

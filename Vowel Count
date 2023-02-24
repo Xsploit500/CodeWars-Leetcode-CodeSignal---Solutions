@@ -1,0 +1,28 @@
+Time Complexity - O(n)
+----------------------
+
+def get_count(sentence):
+    vowel = 'aeiou'
+    
+    NOV = []
+    
+    for i in vowel:
+        a = sentence.count(i)
+        NOV.append(a)
+            
+    return sum(NOV)
+        
+        
+Time Complexity - O(n squared)
+------------------------------
+
+def get_count(sentence):
+    m = []
+    vowels = ['a', 'e', 'i', 'o', 'u']
+    
+    for i in sentence:
+        for vowel in vowels:
+            if i == vowel:
+                m.append(i)
+        
+    return len(m)

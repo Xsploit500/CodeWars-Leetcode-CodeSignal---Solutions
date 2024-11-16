@@ -2,6 +2,31 @@ class Solution:
     def getFinalState(self, nums: List[int], k: int, multiplier: int) -> List[int]:
         import heapq
 
+        minheap = nums[:]
+
+        heapq.heapify(minheap)
+
+        while k > 0:
+            minimum = heapq.heappop(minheap)
+
+            new_val = minimum * multiplier
+
+            heapq.heappush(minheap, new_val)
+
+            for i in range(len(nums)):
+                if nums[i] == minimum:
+                    nums[i] = new_val
+                    break
+
+            k -= 1
+
+        return nums
+
+
+
+
+        import heapq
+
         minheap = []
 
         def pushtoheap(minheap, elements):

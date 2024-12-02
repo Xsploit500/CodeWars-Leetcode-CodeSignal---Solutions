@@ -1,5 +1,25 @@
 class Solution:
     def deleteGreatestValue(self, grid: List[List[int]]) -> int:
+        from collections import deque
+
+        for arr in grid:
+            arr.sort()
+
+        count, total = 0, 0
+
+        while count < len(grid[0]):
+            maximum = float('-inf')
+            for arr in grid:
+                if arr[count] > maximum:
+                    maximum = arr[count]
+            count += 1
+            total += maximum
+            
+        return total
+
+
+
+
         import heapq
         
         cols, rows = len(grid[0]), len(grid)

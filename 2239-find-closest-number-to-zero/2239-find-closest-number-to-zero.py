@@ -1,27 +1,42 @@
 class Solution:
     def findClosestNumber(self, nums: List[int]) -> int:
-        distances = []
+        minimum = min([abs(num) for num in nums])
 
-        for num in nums:
-            distances.append(abs(num))
+        output = [num for num in nums if abs(num) == abs(minimum)]
+        
+        return max(output)
 
-        minimum = min(distances)
+        # min_dist = float('inf')
 
-        distances = set([distance for distance in distances if distance == minimum])
+        # for i in range(len(nums)):
+        #     if abs(nums[i]) <= min_dist:
+        #         min_dist = abs(nums[i])
 
-        output = float('-inf')
-
-        for num in nums:
-            if num > output and abs(num) == list(distances)[0]:
-                output = num
-
-        return output
-
-        # distance, number = float('inf'), float('-inf')
+        # max_num, output = min_dist, float('-inf')
 
         # for num in nums:
-        #     if abs(num) <= distance or (abs(num) <= distance and num >= number):
-        #         distance = abs(num)
-        #         number = num
+        #     if num >= output and abs(num) == max_num:
+        #         output = num
 
-        # return num
+        # return output
+
+
+
+
+
+        # distances = []
+
+        # for num in nums:
+        #     distances.append(abs(num))
+
+        # minimum = min(distances)
+
+        # distances = set([distance for distance in distances if distance == minimum])
+
+        # output = float('-inf')
+
+        # for num in nums:
+        #     if num > output and abs(num) == list(distances)[0]:
+        #         output = num
+
+        # return output

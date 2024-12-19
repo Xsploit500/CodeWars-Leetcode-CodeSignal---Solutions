@@ -7,17 +7,21 @@
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         def dfs(value):
+            if not value:
+                return ["null"]
+
             stack, values = [value], []
 
             while stack:
                 current = stack.pop()
 
-                values.append(current.val)
-
-                if current.left:
+                if current:
+                    values.append(current.val)
                     stack.append(current.left)
-                if current.right:
                     stack.append(current.right)
+                
+                else:
+                    values.append('null')
 
             return values
         
@@ -27,10 +31,13 @@ class Solution:
 
         left, right = 0, length
 
-        while right < len(rootValues) + 1:
+        while right <= len(rootValues):
+            
             if rootValues[left:right] == subrootValues:
                 return True
+            
             left += 1
             right += 1
+        
         return False
         

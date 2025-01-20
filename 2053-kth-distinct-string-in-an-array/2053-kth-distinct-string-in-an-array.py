@@ -1,6 +1,24 @@
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
+        #Method 1 - Ordered Dictionary
+        from collections import OrderedDict
 
+        occurences = OrderedDict()
+
+        for char in arr:
+            occurences[char] = occurences.get(char, 0) + 1
+
+        for char, count in occurences.items():
+            if count == 1:
+                k -= 1
+                if k == 0:
+                    return char
+        
+        return ""
+
+
+
+        #Method 2 - Using a Hashmap and List
         occurences, distinct = {}, []
 
         for char in arr:

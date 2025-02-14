@@ -8,7 +8,7 @@ class Solution:
     def getAllElements(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> List[int]:
         def traverse(root):
             if not root:
-                return 0
+                return []
 
             stack = [root]
 
@@ -29,9 +29,11 @@ class Solution:
         tree1 = traverse(root1)
         tree2 = traverse(root2)
 
-        if tree1 and tree2:
-            return sorted(tree1 + tree2)
-        elif tree1 and not tree2:
-            return sorted(tree1)
-        else:
-            return sorted(tree2)
+        return sorted(tree1 + tree2)
+
+        # if tree1 and tree2:
+        #     return sorted(tree1 + tree2)
+        # elif tree1 and not tree2:
+        #     return sorted(tree1)
+        # else:
+        #     return sorted(tree2)

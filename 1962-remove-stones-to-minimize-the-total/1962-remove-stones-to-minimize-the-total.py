@@ -3,6 +3,20 @@ class Solution:
         import heapq
         import math
 
+        maxheap = [-val for val in piles]
+        heapq.heapify(maxheap)
+
+        for _ in range(k):
+            largest = -heapq.heappop(maxheap)
+            new_val = largest - math.floor(largest / 2)
+            heapq.heappush(maxheap, -new_val)
+
+        return -sum(maxheap)
+
+
+
+        
+
         def pushtoheap(piles):
             maxheap = []
 

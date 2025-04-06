@@ -1,5 +1,17 @@
 class Solution:
     def firstMissingPositive(self, nums: List[int]) -> int:
+        current_smallest = 1
+
+        nums.sort()
+
+        for num in nums:
+            if num == current_smallest:
+                current_smallest += 1
+
+        return current_smallest
+
+
+
 
         for i in range(len(nums)):
             if nums[i] < 0:

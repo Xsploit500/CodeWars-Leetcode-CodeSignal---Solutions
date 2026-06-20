@@ -1,6 +1,6 @@
-CodeWars Challenges Solutions
+Leetcode Challenges Solutions
 
-My solutions to problems on CodeWars. I will be adding new solutions to problems daily or weekly, so remain engaged. Also feel free to leave comments wherever necessary.
+My solutions to problems on Leetcode. I will be adding new solutions to problems daily or weekly, so remain engaged. Also feel free to leave comments wherever necessary.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

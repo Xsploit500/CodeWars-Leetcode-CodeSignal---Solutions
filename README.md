@@ -45,12 +45,19 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 <!---LeetCode Topics End-->

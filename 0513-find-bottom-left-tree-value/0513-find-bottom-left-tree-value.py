@@ -7,7 +7,7 @@
 class Solution:
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
         if not root:
-            return ""
+            return 0
 
         level = 0
 
@@ -35,7 +35,7 @@ class Solution:
         # from collections import deque
 
         # if not root:
-        #     return ""
+        #     return 0
 
         # level = 0
 

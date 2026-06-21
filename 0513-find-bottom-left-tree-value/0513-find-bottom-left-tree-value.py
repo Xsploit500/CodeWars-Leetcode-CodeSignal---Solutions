@@ -6,7 +6,11 @@
 #         self.right = right
 class Solution:
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
+        
         from collections import deque
+
+        if not root:
+            return ""
 
         level = 0
 

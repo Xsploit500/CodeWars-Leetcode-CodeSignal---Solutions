@@ -6,26 +6,58 @@
 #         self.right = right
 class Solution:
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
+        from collections import deque
+
         if not root:
             return 0
 
+        result = None
+        prev_level = -1
+
         level = 0
 
-        stack, leftValues = [(root, level)], []
+        queue = deque([(root, level)])
 
-        while stack:
-            current, level = stack.pop()
+        while len(queue) > 0:
+            current, level = queue.popleft()
 
-            if len(leftValues) == level:
-                leftValues.append(current.val)
-
-            if current.right:
-                stack.append((current.right, level + 1))
+            if level > prev_level:
+                result = current.val
+                prev_level = level
 
             if current.left:
-                stack.append((current.left, level + 1))
+                queue.append((current.left, level + 1))
 
-        return leftValues[-1]
+            if current.right:
+                queue.append((current.right, level + 1))
+
+
+        return result
+
+
+
+        
+
+        # if not root:
+        #     return 0
+
+        # level = 0
+
+        # stack, leftValues = [(root, level)], []
+
+        # while stack:
+        #     current, level = stack.pop()
+
+        #     if len(leftValues) == level:
+        #         leftValues.append(current.val)
+
+        #     if current.right:
+        #         stack.append((current.right, level + 1))
+
+        #     if current.left:
+        #         stack.append((current.left, level + 1))
+
+        # return leftValues[-1]
 
 
 

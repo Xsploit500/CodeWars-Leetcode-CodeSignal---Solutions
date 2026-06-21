@@ -44,20 +44,27 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

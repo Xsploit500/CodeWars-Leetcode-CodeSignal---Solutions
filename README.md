@@ -26,11 +26,13 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0455-assign-cookies](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |
 ## Greedy
@@ -46,6 +48,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -64,6 +67,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -82,4 +86,8 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 <!---LeetCode Topics End-->

@@ -6,25 +6,51 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        # Iterative DFS
-        if not root:
-            return True
+        def helper(root, values):
+            if not root:
+                return
 
-        stack = [(root, float('-inf'), float('inf'))]
+            helper(root.left, values)
+            values.append(root.val)
+            helper(root.right, values)
 
-        while stack:
-            node, min_val, max_val = stack.pop()
+        values = []
+        helper(root, values)
+        left, right = 0, 1
 
-            if node.val <= min_val or node.val >= max_val:
+        while right < len(values):
+            if values[right] <= values[left]:
                 return False
-            
-            if node.right:
-                stack.append((node.right, node.val, max_val))
-            
-            if node.left:
-                stack.append((node.left, min_val, node.val))
+
+            left += 1
+            right += 1
 
         return True
+        
+        
+        
+        
+        # # Iterative DFS
+        # if not root:
+        #     return True
+
+        # stack = [(root, float('-inf'), float('inf'))]
+
+        # while stack:
+        #     node, min_val, max_val = stack.pop()
+
+        #     if node.val <= min_val or node.val >= max_val:
+        #         return False
+            
+        #     if node.right:
+        #         stack.append((node.right, node.val, max_val))
+            
+        #     if node.left:
+        #         stack.append((node.left, min_val, node.val))
+
+        # return True
+
+
 
         # # Recursive Solution
         # def validate(node, min_val, max_val):

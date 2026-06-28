@@ -10,6 +10,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |

@@ -43,6 +43,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0455-assign-cookies](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,5 +122,6 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->

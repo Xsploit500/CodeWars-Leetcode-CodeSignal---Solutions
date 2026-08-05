@@ -1,6 +1,6 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        def find_min_index(nums, target):
+        def find_min_index(nums):
             low, high = 0, len(nums) - 1
 
             while low <= high:
@@ -26,7 +26,7 @@ class Solution:
 
             return -1
 
-        min_index = find_min_index(nums, target)
+        min_index = find_min_index(nums)
         left_half = binary_search(nums, target, 0, min_index - 1)
         right_half = binary_search(nums, target, min_index, len(nums) - 1)
 

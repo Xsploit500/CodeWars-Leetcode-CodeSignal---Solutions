@@ -13,9 +13,7 @@ class Solution:
                 else:
                     return mid
 
-        def binary_search(nums, target):
-            left, right = 0, len(nums) - 1
-
+        def binary_search(nums, target, left, right):
             while left <= right:
                 mid = (left + right) // 2
 
@@ -29,13 +27,13 @@ class Solution:
             return -1
 
         min_index = find_min_index(nums, target)
-        left_half = binary_search(nums[0:min_index], target)
-        right_half = binary_search(nums[min_index:len(nums)], target)
+        left_half = binary_search(nums, target, 0, min_index - 1)
+        right_half = binary_search(nums, target, min_index, len(nums) - 1)
 
         if left_half != -1:
             return left_half
         elif right_half != -1:
-            return min_index + right_half
+            return right_half
         else:
             return -1
 

@@ -33,6 +33,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -43,6 +44,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0049-group-anagrams](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -58,6 +60,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0455-assign-cookies](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -144,4 +147,8 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->

@@ -35,6 +35,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0001-two-sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0001-two-sum/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Array
@@ -44,6 +45,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0033-search-in-rotated-sorted-array](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0455-assign-cookies](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -130,4 +132,16 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->

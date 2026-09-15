@@ -14,6 +14,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0092-reverse-linked-list-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0622-design-circular-queue](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -54,6 +55,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0347-top-k-frequent-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0455-assign-cookies](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0622-design-circular-queue](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -150,6 +152,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0622-design-circular-queue](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0622-design-circular-queue/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +185,8 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->

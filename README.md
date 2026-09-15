@@ -40,6 +40,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0142-linked-list-cycle-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 ## Array
@@ -55,6 +56,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0347-top-k-frequent-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0455-assign-cookies](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0817-linked-list-components](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0817-linked-list-components/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -181,6 +183,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

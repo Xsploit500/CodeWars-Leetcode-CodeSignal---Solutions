@@ -26,6 +26,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -49,6 +50,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -72,6 +74,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |

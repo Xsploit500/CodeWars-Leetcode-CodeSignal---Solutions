@@ -35,6 +35,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0001-two-sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -48,6 +49,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0049-group-anagrams](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -176,4 +178,8 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->

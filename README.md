@@ -63,6 +63,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0455-assign-cookies](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -181,6 +182,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0622-design-circular-queue/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -229,4 +232,16 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->

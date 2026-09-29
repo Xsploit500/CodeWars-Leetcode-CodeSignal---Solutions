@@ -29,6 +29,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0011-container-with-most-water](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -54,6 +55,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0011-container-with-most-water](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -131,6 +133,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -207,6 +210,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +223,8 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0075-sort-colors/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->

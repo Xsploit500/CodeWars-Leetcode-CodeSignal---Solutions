@@ -60,6 +60,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | [0075-sort-colors](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -211,6 +212,7 @@ My solutions to problems on Leetcode. I will be adding new solutions to problems
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Xsploit500/CodeWars-Leetcode-CodeSignal---Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
